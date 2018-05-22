@@ -9,4 +9,5 @@ https://developer.okta.com/blog/2018/02/01/secure-aspnetcore-webapi-token-auth -
 5：SSO
 https://www.codeproject.com/Articles/429166/Basics-of-Single-Sign-on-SSO  sso实现
 http://garymcallisteronline.blogspot.sg/2013/01/aspnet-mvc-4-adfs-20-and-3rd-party-sts.html sso实现
+https://msdn.microsoft.com/en-us/library/ms972971.aspx
 
