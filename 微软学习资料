@@ -6,3 +6,7 @@ https://darkcraft.gitbooks.io/abpdocument2chinese/content/Abp/7.2ABP%E5%90%8E%E5
 http://www.aizhengli.com/aspnet-web-api-rest/28/aspnet-web-api-rest-url-eidt.html
 4：OAuth 2.0
 https://developer.okta.com/blog/2018/02/01/secure-aspnetcore-webapi-token-auth --进行身份验证的重要途经
+5：SSO
+https://www.codeproject.com/Articles/429166/Basics-of-Single-Sign-on-SSO  sso实现
+http://garymcallisteronline.blogspot.sg/2013/01/aspnet-mvc-4-adfs-20-and-3rd-party-sts.html sso实现
+
